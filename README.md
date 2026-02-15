@@ -7,13 +7,25 @@ The goal was to move beyong "just looking at numbers" and instead identify the s
 **Internship:** ELEVVO  
 **Role:** Data Analyst Intern
 
+## Business Problem ##  
+Retailers often to see the "bigger pictures" within large volume of daily transactions. For this project, I addressed three core business problems.  
+1. **Regional Blindspots:** Which regions are underperforming and require a strategy pivot?
+2. **Category Distribution:** Do we diversify or we are over-reliant on one product category?
+3. **Operational Efficiency:** Does our shipping mode selection correlate with higher revenue?
+
+## My Analytical Workflow (The "Excel-First" Approach)  
 
 
 
-presents a comprehensive Sales Performance Analysis Dashboard built entirely in Microsoft Excel using Kaggle Superstore dataset.  
-The objective of this analysis is to evaluate overall business performance, identify revenue drivers, analyze regional performance and provide actionable business insights through interactive dashboard visualization.
 
-## Business Problem ##
+
+
+
+
+
+
+
+
 
 
 ## Data Cleaning and Preparation ##
