@@ -4,7 +4,7 @@ This project involves a deep-dive analysis of thr Superstore Dataset. Using **Mi
 
 The goal was to move beyong "just looking at numbers" and instead identify the specific drivers of revenue, regional strengths, and seasonal trends to support data-driven decision-making.  
 
-**Internship:** ELEVVO
+**Internship:** ELEVVO  
 **Role:** Data Analyst Intern
 
 
