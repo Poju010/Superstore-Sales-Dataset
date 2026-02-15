@@ -13,12 +13,9 @@ Retailers often to see the "bigger pictures" within large volume of daily transa
 2. **Category Distribution:** Do we diversify or we are over-reliant on one product category?
 3. **Operational Efficiency:** Does our shipping mode selection correlate with higher revenue?
 
-## My Analytical Workflow (The "Excel-First" Approach)  
-* uur
-* fetgd
-
-**hrwiweu** 
-- jru
+## My Analytical Workflow (The "Excel-First" Approach) ##  
+I hand.
+- 
 - ieru
 - jsusf
 
