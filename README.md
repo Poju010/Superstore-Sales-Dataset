@@ -9,16 +9,20 @@ The goal was to move beyong "just looking at numbers" and instead identify the s
 
 ## Business Problem ##  
 Retailers often to see the "bigger pictures" within large volume of daily transactions. For this project, I addressed three core business problems.  
-1. **Regional Blindspots:** Which regions are underperforming and require a strategy pivot?
-2. **Category Distribution:** Do we diversify or we are over-reliant on one product category?
-3. **Operational Efficiency:** Does our shipping mode selection correlate with higher revenue?
+1. **Regional Blindspots**: Which regions are underperforming and require a strategy pivot?
+2. **Category Distribution**: Do we diversify or we are over-reliant on one product category?
+3. **Operational Efficiency**: Does our shipping mode selection correlate with higher revenue?
 
 ## My Analytical Workflow (The "Excel-First" Approach) ##  
-- **Data Integrity:** After importing my dataset into Excel, I duplicated it into a new worksheet, cleaned the dataset by standardizing the date formats of the Order and Ship and addressing missing values in geographic fields (Postal Codes) before organizing it into a structured table.
-- **Aggregation:** I built a robust back-end using **Pivot Tables** to calculate the KPIs (Total Revenue, Total Orders and the likes). 
+- **Data Integrity**: After importing my dataset into Excel, I duplicated it into a new worksheet, cleaned the dataset by standardizing the date formats of the Order and Ship and addressing missing values in geographic fields (Postal Codes) before organizing it into a structured table.
+- **Aggregation**: I built a robust back-end using **Pivot Tables** to calculate the KPIs (Total Revenue, Total Orders and the likes). 
 - Using consistent color palettes, aligned visuals, and **Slicers** to make the dashboard intuitive for non-technical managers.
 
 ## Key Performance Indicators (KPIs) ##  
+- **Total Revenue**: $2,261,536.78
+- **Market Leader**: The **West Region** ($710K+ in sales).
+- **Primary Driver**: **Technology** (Highest revenue-generating category).
+- **Top Market**: **New York City** leads all cities in total volume.
 
 
 
@@ -28,16 +32,3 @@ Retailers often to see the "bigger pictures" within large volume of daily transa
 
 
 
-
-
-
-
-
-## Data Cleaning and Preparation ##
-The following are thr steps performed in Excel:
-**Imported CSV dashboard into Excel**
-Checked for missing values
-Standardized date formats
-Verified numerical columns (Sales, Quantity)
-Organized data into structured tables
-Applied proper formatting for consistency
