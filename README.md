@@ -14,10 +14,12 @@ Retailers often to see the "bigger pictures" within large volume of daily transa
 3. **Operational Efficiency:** Does our shipping mode selection correlate with higher revenue?
 
 ## My Analytical Workflow (The "Excel-First" Approach) ##  
-I hand.
-- 
-- ieru
-- jsusf
+- **Data Integrity:** After importing my dataset into Excel, I duplicated it into a new worksheet, cleaned the dataset by standardizing the date formats of the Order and Ship and addressing missing values in geographic fields (Postal Codes) before organizing it into a structured table.
+- **Aggregation:** I built a robust back-end using **Pivot Tables** to calculate the KPIs (Total Revenue, Total Orders and the likes). 
+- Using consistent color palettes, aligned visuals, and **Slicers** to make the dashboard intuitive for non-technical managers.
+
+## Key Performance Indicators (KPIs) ##  
+
 
 
 
