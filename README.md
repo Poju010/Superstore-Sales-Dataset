@@ -1,5 +1,5 @@
 # 📊 Superstore-Sales-Dataset
-### Executive Dashboard and Business Insights Case Study###
+### Executive Dashboard and Business Insights Case Study ###
 ## Project Overview ##
 This project involves a deep-dive analysis of thr Superstore Dataset. Using **Microsoft Excel**, I transformed over 9,700 rows of transaactional data into an interactive Dashboard.
 
